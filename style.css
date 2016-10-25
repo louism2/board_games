@@ -1,0 +1,25 @@
+fieldset{
+  border: none;
+}
+
+input type='text'{
+  display: block;
+}
+
+/* BOARD */
+#board{
+  width: 50%;
+  height:50%;
+}
+
+.column{
+  display: inline-block;
+  width: 30px;
+}
+
+.square{
+  display: inline-block;
+  border: .2em solid green;
+  height: 30px;
+  width: 100%;
+}

@@ -1,0 +1,4 @@
+CheckersMatch -- Creating and placing peices... you call the same methods for
+each player.  Maybe abstract that out.
+
+-- currently working on:  MatchCoordinator.drawBoard().  Figure out how to get image of a piece;
